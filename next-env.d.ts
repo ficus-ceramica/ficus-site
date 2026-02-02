@@ -1,2 +1,3 @@
-/// <reference types="next" />
+///ts
+//  <reference types="next" />
 /// <reference types="next/image-types/global" />
